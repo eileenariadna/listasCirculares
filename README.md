@@ -1,2 +1,2 @@
 # listasCirculares
-listas circulares con python
+listas circulares con Java
